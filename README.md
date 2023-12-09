@@ -214,7 +214,7 @@
 
 #### This Tool Must Run As ROOT !!!
 
-    git clone https://github.com/abhi484x/ABHIG.git
+    git clone https://github.com/ABHIG6/ABHIG.git
     
     chmod -R 755 ABHIG  
     
